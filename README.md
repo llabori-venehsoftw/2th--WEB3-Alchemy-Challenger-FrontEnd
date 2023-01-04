@@ -1,4 +1,4 @@
-Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports 
+Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports
 TypeScript, but you can use normal JavaScript as well.
 
 ## Getting Started
@@ -7,7 +7,7 @@ Hit the run button to start the development server.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on `/api/hello`. This 
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on `/api/hello`. This
 endpoint can be edited in `pages/api/hello.ts`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
@@ -26,8 +26,9 @@ To make your next App run smoothly in production make sure to [turn this repl to
 
 You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
 
+## Priject/Challenger
 
-For this website portion, in order to keep things simple and clean, we are going to use an amazing tool 
+For this website portion, in order to keep things simple and clean, we are going to use an amazing tool
 for spinning up demo projects quickly, called Replit IDE.
 
 Visit my example project here, and fork it to create your own copy to modify: https://replit.com/@thatguyintech/BuyMeACoffee-Solidity-DeFi-Tipping-app
