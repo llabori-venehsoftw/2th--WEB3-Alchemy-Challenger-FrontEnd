@@ -26,7 +26,7 @@ To make your next App run smoothly in production make sure to [turn this repl to
 
 You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
 
-## Priject/Challenger
+## Project/Challenger
 
 For this website portion, in order to keep things simple and clean, we are going to use an amazing tool
 for spinning up demo projects quickly, called Replit IDE.
